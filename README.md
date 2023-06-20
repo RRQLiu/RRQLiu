@@ -4,7 +4,7 @@ Welcome to my Github!! 	:star_struck:
 
 🔭I am currently interning at ShunFeng-Technology as Full-stack SDE! 
 
-:boom: I will be at Rice University for Master of Computer Science programming in the following fall! 
+:boom: I will be at Rice University for Master of Computer Science program in the following fall! 
 
 
 
