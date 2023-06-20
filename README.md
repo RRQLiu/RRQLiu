@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+Welcome to my Github!! 	:star_struck:
+
+🔭I am currently interning at ShunFeng-Technology as Full-stack SDE! 
+
+:boom: I will be at Rice University for Master of Computer Science programming in the following fall! 
+
+
+
+
+
+
 <!--
 **RRQLiu/RRQLiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
