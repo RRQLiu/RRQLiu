@@ -1,13 +1,10 @@
 ### Hi there 👋
 
-Welcome to my Github!! 	:star_struck:
+Welcome to my Github page!! 	:star_struck:
 
 🔭I am currently interning at ShunFeng-Technology as Full-stack SDE! 
 
 :boom: I will be at Rice University for Master of Computer Science program in the following fall! 
-
-
-
 
 
 
