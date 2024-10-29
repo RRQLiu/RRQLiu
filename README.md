@@ -2,9 +2,10 @@
 
 Welcome to my Github page!! 	:star_struck:
 
-🔭I am currently interning at ShunFeng-Technology as Full-stack SDE! 
+🔭I just finished my second software engineer intern at ADP Inc !!  
 
-:boom: I will be at Rice University for MCS program in the following fall! 
+:boom: I will be graduating at summer (May) 2025 and actively looking for full time oppturnity
+
 
 
 
